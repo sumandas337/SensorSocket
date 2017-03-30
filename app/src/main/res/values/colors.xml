@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <item name="color_dark_green" type="color">#099e44</item>
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="white_2" type="color">#8AFFFFFF</item>
+    <item name="white_opaque" type="color">#4DFFFFFF</item>
+    <item name="white_opaque_80" type="color">#CCFFFFFF</item>
+    <item name="black" type="color">#333</item>
+    <item name="grey" type="color">#AAA</item>
+    <item name="grey_span" type="color">#878787</item>
+    <item name="light_grey" type="color">#F5F5F5</item>
+    <item name="dark_grey" type="color">#808080</item>
+    <item name="light_red" type="color">#FFCCCD</item>
+    <item name="red" type="color">#DD4B39</item>
+    <item name="grey_green" type="color">#DCEDC8</item>
+    <item name="ocean_green" type="color">#009688</item>
+    <item name="dark_green" type="color">#558B2F</item>
+    <item name="light_green" type="color">#99FF99</item>
+    <item name="blue" type="color">#0288D1</item>
+    <item name="dark_blue" type="color">#282B3A</item>
+</resources>
